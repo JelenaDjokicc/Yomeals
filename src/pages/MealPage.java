@@ -8,10 +8,6 @@ import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.WebDriverWait;
 
 public class MealPage extends BasicPage {
-//	Meal Page:
-//		get metode za sve potrebne elemente
-//		metodu koja dodaje jelo u korpu - kao parametar se prosleđuje količina
-//		metodu koja jelo dodaje u omiljena jela, klikom na dugme Favorite 
 
 
 	public MealPage(WebDriver driver, JavascriptExecutor js, WebDriverWait wait) {
